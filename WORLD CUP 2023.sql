@@ -1,7 +1,7 @@
 
 CREATE DATABASE WorldCup2023;
 USE WorldCup2023;  
-
+  
 CREATE TABLE Teams (
     team_id INT AUTO_INCREMENT PRIMARY KEY,
     team_name VARCHAR(50) NOT NULL,
