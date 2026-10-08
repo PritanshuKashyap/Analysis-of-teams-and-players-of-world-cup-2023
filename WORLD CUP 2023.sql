@@ -1,5 +1,5 @@
 
-CREATE DATABASE WorldCup2023;
+CREATE DATABASE WorldCup2023; 
 USE WorldCup2023;       
   
 CREATE TABLE Teams (
